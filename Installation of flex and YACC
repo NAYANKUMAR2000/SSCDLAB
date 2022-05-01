@@ -1,0 +1,12 @@
+Installtion of Flex and Yacc/bison on Ubuntu 18.04
+
+1. Start the Terminal 
+	alt + clt + T
+2. Update the repository
+	sudo apt-get update
+3. Install Flex
+	sudo apt-get instal Flex
+4. Install Yacc/bison
+	sudo apt-get install bison
+
+Now Flex and Yacc/bison is ready can execute SS&OS Lab experiments
